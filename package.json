@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LashaPeikrishvili/scss/issues"
   },
-  "homepage": "https://github.com/LashaPeikrishvili/scss#readme"
+  "homepage": "https://github.com/LashaPeikrishvili/scss#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
